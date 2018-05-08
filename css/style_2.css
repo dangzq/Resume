@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#title{
+	float: left;
+	width: 20%;
+	background-color: #3f8ef9;
+	height: 50em;
+	text-align: center;
+}
+#title h2{
+	color: white;
+}
+#content{
+	float: right;
+	width: 78%;
+	padding-left: 1%;
+}

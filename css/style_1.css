@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#Info div p{
+	display: inline;
+}
+.B_p{
+	font-weight: bolder;
+	padding-right: 0.3em;
+}
+.N_p{
+	padding-right: 1.5em;
+}
+#connect div p{
+	display: inline;
+}
+#style{
+	padding-top: 0.6em;
+	padding-left: 0.3em; 
+}
+#style div{
+	padding-top: 1em;
+}
+.B_h{
+	padding-top: 0.8em;
+}
+span{
+	display: block;
+	font-weight: bolder;
+}
