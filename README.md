@@ -1,2 +1,2 @@
 Resume
- [demo](https://github.com/embrace-yang/Resume/resume.html) 
+ [demo](https://github.com/embrace-yang/Resume/blob/master/resume.html) 
